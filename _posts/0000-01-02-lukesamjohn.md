@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our lukesamjohn's slide!"
 ---
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 Use the left arrow to go back!
